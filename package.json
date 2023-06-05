@@ -1,0 +1,11 @@
+{
+  "name": "postlog",
+  "version": "1.0.0",
+  "description": "Postリクエストが送られてきた時、送られてきたボディをログ出力する(検証用)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
